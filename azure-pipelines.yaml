@@ -31,8 +31,8 @@ steps:
   inputs:
     scanType: 'blackduck'
 #    bridge_download_url: "https://artifactory.internal.synopsys.com/artifactory/clops-local/clops.sig.synopsys.com/synopsys-bridge/1.1.28/synopsys-bridge-1.1.28-macosx.zip"
-    bridge_blackduck_url: 'https://vontier-matcotools.app.blackduck.com'
-    bridge_blackduck_token: 'MjAwZjU2MTgtNzA5MS00MjM4LThhMDctMWM4NDE3MTZkN2YyOmE1YWJhOTQ1LTA3NDQtNDYyMC1iNTg3LWFmYzMzZjljMDNjOQ=='
+    bridge_blackduck_url: 'https://***********************************'
+    bridge_blackduck_token: '***************************************************'
     bridge_blackduck_scan_full: true
 #    bridge_blackduck_fixpr_filter_severities: "CRITICAL,  HIGH"
 #    bridge_blackduck_fixpr_enabled: true
