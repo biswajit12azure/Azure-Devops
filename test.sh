@@ -1,2 +1,2 @@
 Ti es test script
-test it
+test i:wq!t
